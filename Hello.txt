@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-****** Five Star******
-=======
+
 ********jivlag**********
->>>>>>> 57d37efdf4fb93a730547139b02492f07ae17d1a
 vaibhav
-Anjali
+Anjali Narsing Gavre
 Shreya
 Aakash
 Akshu
